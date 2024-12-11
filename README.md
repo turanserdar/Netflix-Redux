@@ -73,4 +73,4 @@ Email: turanserdar@outlook.com.tr
 ## Preview
 Below is a snapshot of the app interface:
 
-![Netflix App Preview](https://raw.githubusercontent.com/turanserdar/Netflix-Redux/blob/main/netflix.gif)
+![Netflix App Preview](https://raw.githubusercontent.com/turanserdar/Netflix-Redux/main/netflix.gif)
